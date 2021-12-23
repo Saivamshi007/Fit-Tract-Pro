@@ -1,0 +1,4 @@
+{
+    "mongoURI":"mongodb+srv://dsaivamshi123:Sweetkovi@trackpro.meg9m.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "jwtSecret":"TrackSecret"
+}
